@@ -1,7 +1,7 @@
 import './App.css';
+import React, { useState } from "react";
 import InputShortener from './components/InputShortener';
 import LinkResult from './components/LinkResult';
-import React, { useState } from "react";
 
 
 function App() {
